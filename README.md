@@ -56,7 +56,12 @@ CREATE TABLE spotify (
 
 
 ### Query Optimization
-![](file:///D:/python/postgresql/sql_practice/spotify/explain_plan_1762805215084.svg)
 
 <img width="442" height="187" alt="image" src="https://github.com/user-attachments/assets/00fab893-6437-4244-b8bd-647bf01d35ff" />
 
+
+- **Graphical Performance Comparison**
+    - A graph illustrating the comparison between the initial query execution time and the optimized query execution time after index creation.
+    - <img width="968" height="278" alt="spotify_graphical view 2" src="https://github.com/user-attachments/assets/c7459f2a-6df5-42b8-bea2-282db6d637f8" />
+
+  <img width="1245" height="149" alt="image" src="https://github.com/user-attachments/assets/8830f6f8-5f95-4097-be5a-26a6e0856c9e" />
