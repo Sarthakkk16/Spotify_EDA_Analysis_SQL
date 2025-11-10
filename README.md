@@ -56,5 +56,7 @@ CREATE TABLE spotify (
 
 
 ### Query Optimization
+![](file:///D:/python/postgresql/sql_practice/spotify/explain_plan_1762805215084.svg)
+
 <img width="442" height="187" alt="image" src="https://github.com/user-attachments/assets/00fab893-6437-4244-b8bd-647bf01d35ff" />
 
