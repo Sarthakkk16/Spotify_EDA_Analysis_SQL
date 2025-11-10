@@ -53,3 +53,8 @@ CREATE TABLE spotify (
 1. Find the top 3 most-viewed tracks for each artist using window functions.
 2. Write a query to find tracks where the liveness score is above the average.
 3. Use a `WITH` clause to calculate the difference between the highest and lowest energy values for tracks in each album.
+
+
+### Query Optimization
+<img width="442" height="187" alt="image" src="https://github.com/user-attachments/assets/00fab893-6437-4244-b8bd-647bf01d35ff" />
+
